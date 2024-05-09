@@ -34,7 +34,7 @@ let num5 = 0;
 for (let i = 1; i <= 100; i += 2) {
     num5 += i;
 }
-console.log(num5); // Output the sum of odd numbers from 1 to 100
+console.log(num5); 
 
 
 //6. დაწერეთ პროგრამა,რომელიც სთხოვს მომხმარებელს გამოიცნოს საიდუმლო
